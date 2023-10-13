@@ -1,0 +1,25 @@
+{
+  "name": "react-tutorial",
+  "version": "1.0.0",
+  "description": "This course will contain react-tutorial based on namaste react ",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnuragS202/NR.git"
+  },
+  "author": "Anurag Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnuragS202/NR/issues"
+  },
+  "homepage": "https://github.com/AnuragS202/NR#readme",
+  "devDependencies": {
+    "parcel": "^2.10.0"
+  },
+  "dependencies": {
+    "react": "^18.2.0"
+  }
+}
