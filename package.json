@@ -2,7 +2,6 @@
   "name": "react-tutorial",
   "version": "1.0.0",
   "description": "This course will contain react-tutorial based on namaste react ",
-  "main": "App.js",
   "scripts": {
     "test": "jest"
   },
@@ -17,9 +16,15 @@
   },
   "homepage": "https://github.com/AnuragS202/NR#readme",
   "devDependencies": {
-    "parcel": "^2.10.0"
+    "parcel": "^2.10.0",
+    "process": "^0.11.10"
   },
   "dependencies": {
-    "react": "^18.2.0"
-  }
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  
+  "browserlist":[
+  "last 4 versions"
+  ]
 }
