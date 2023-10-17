@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "This course will contain react-tutorial based on namaste react ",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
   },
   "repository": {
     "type": "git",
