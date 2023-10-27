@@ -8,6 +8,10 @@
   width: 100px;
 }
 
+.nav-items {
+  padding: 0px 20px;
+}
+
 .nav-items > ul {
   display: flex;
   list-style: none;
@@ -19,11 +23,20 @@
   padding: 10px;
 }
 
+.res-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
 .res-card {
-  padding: 5px;
-  width: 160px;
-  height: 330px;
-  border: 1px solid black;
+  margin: 5px;
+  padding: 10px;
+  width: 220px;
+}
+
+.res-card:hover {
+  cursor: pointer;
+  border: 2px solid black;
 }
 
 .Search {
