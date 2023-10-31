@@ -1,4 +1,4 @@
-import resList from "../utils/mockdata";
+import resList from "../../utils/mockdata";
 import ResturantCard from "./ResturantCard";
 
 const Body = () => {
